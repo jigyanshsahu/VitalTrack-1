@@ -1,0 +1,9 @@
+{
+  "name": "VitalTrack",
+  "description": "A health companion for seniors featuring medication management, vital tracking, and one-tap emergency access.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
